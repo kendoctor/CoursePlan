@@ -124,7 +124,7 @@
  * Symfony Event Dispatcher组件
  * Symfony Dependency Injection组件
  
-##五、Symfony Framework
+##六、Symfony Framework
 
 学习Symfony框架的基本使用
 
